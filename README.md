@@ -1,1 +1,1 @@
-
+A Library Management System  is a software application designed to handle the daily operations of a library efficiently. It allows librarians to manage books, journals, and digital resources while tracking borrowing, returning, and reservations. By digitizing library functions, an LMS improves accessibility, saves time, reduces errors, and enhances overall library management for both staff and users.
